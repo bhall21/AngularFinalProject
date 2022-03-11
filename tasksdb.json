@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "taskName": "Paint",
+      "description": "Using paint in ths color of your choose, paint the entire outside of the house."
+    },
+    {
+      "id": 2,
+      "taskName": "Raking",
+      "description": "Using a leaf rake, rake up all of the leaves from the grass before mowing it."
+    },
+    {
+      "id": 3,
+      "taskName": "Mowing the Lawn",
+      "description": "After raking the leaves, use the lawn mower to cut the grass to a length of 2.5 inches."
+    }
+  ]
+}
